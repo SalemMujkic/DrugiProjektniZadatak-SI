@@ -1,0 +1,227 @@
+.logo{
+    float:left;
+    display: block;
+    width: 7%;
+    
+    padding: 2px 2px;
+    text-align: center;
+    
+}
+
+
+nav{
+    border-bottom: 1px outset black;
+}
+
+ul {
+    list-style-type: none;
+    
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+input{
+    float: left;
+    width: 30%;
+    display: block;
+    color: black;
+    border-radius: 30px;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #f8f9fb;
+   
+}
+  
+
+
+  .prviBtn{
+    float:left;
+    display: block;
+    padding: 14px 16px;
+    margin-left: 10px;
+    background-color: black;
+    color:white;
+    
+  }
+  .drugiBtn:hover{
+      background-color: #f8f9fb;
+  }
+  .drugiBtn{
+    float:left;
+    display: block;
+    padding: 14px 16px;
+    margin-left: 10px;
+    background-color: white;
+    color:black;
+  }
+  .ikona1{
+    float:left;
+    display: block;
+    width: 2%;
+    padding: 10px 30px;
+  }
+  .ikona2{
+    width: 15px;
+    padding: 0px;
+    margin: 0px;
+  }
+  .slika1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+  }
+
+  .container1{
+    position: relative;
+    
+  }
+
+  .tekstSlika{
+      box-shadow: 1px 1px 1px 1px;
+      width: 25%;
+    position: absolute;
+    top:20%;
+    left:10%;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+    background-color: #ffff;
+  
+    
+  }
+
+  .content{
+      margin-left: 5%;
+      margin-right: 5%;
+  }
+  .lista li{
+    margin-left: 20px;
+    color: grey;
+  }
+  .lista li:hover{
+      color:black;
+  }
+
+  .container2{
+      border: 1px solid gray;
+      padding:3%
+  }
+  .treciBtn{
+    padding: 14px 16px;
+    
+    background-color: white;
+    color:black;
+  }
+  .treciBtn:hover{
+    background-color: #f8f9fb;
+  }
+.scroll{
+    overflow: hidden;
+    
+}
+  .card{
+      border: 1px solid black;
+      width: 25%;
+  float: left;
+  overflow: hidden;
+  display: block;
+  margin-left: 2%;
+  
+  }
+  .card-img{
+      width:100%;
+  }
+  .container3{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color:#f8f9fb ;
+    margin-top: 80px;
+    text-align: center;
+  }
+  .aaaa{
+    display: flex;
+    margin: 3%;
+    margin-left: 20%;
+    margin-right: 20% ;
+    align-items: center;
+  }
+  .aaaa img{
+    height:30px;
+    padding: 1%;
+  }
+  .kategorije{
+      display: inline-block;
+      margin-right:1%;
+      margin-bottom: 3%;
+  }
+  .lallala{
+    background-color:#f8f9fb;
+    padding: 5%;
+}
+  .fLista{
+      background-color: #f8f9fb;
+      display: inline-block;
+      margin-right: 15%;
+  }
+  .container4{
+      text-align: center;
+  }
+  .container4 img{
+      margin-inline-end: 5%;
+  }
+  .container5{
+    overflow: hidden;
+   
+    display: flex;
+    justify-content: center;
+    
+  }
+  .eee{
+      width: 25%;
+      display: inline-block;
+      padding: 3%;
+      
+  }
+ 
+  .eee img{
+      width: 100%;
+  }
+ 
+  .ffoter{
+     
+      color: white;
+      
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+      background-color: #1c1d1f;
+      
+      
+  }
+  .footer{
+      display: inline-block;
+      margin-right: 10%;
+      padding:1%
+ 
+  
+  }
+  
